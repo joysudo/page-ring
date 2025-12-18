@@ -1,0 +1,49 @@
+- id: acon
+  name: acon
+  url: https://aconlin.com
+  buttonUrl: /buttons/acon.gif
+
+- id: bomberfish
+  name: "bomberfish"
+  url: "https://bomberfish.ca"
+  buttonUrl: "https://bomberfish.ca/button.gif"
+
+- id: junya
+  name: junya
+  url: "https://cutiesin.tech"
+  buttonUrl: "https://cutiesin.tech/88x31/junya.gif"
+
+- id: valen
+  name: valen
+  url: "https://valen.zip"
+  buttonUrl: "https://valen.zip/button-win98.gif"
+
+- id: prpl
+  name: "prpl"
+  url: "https://prpl.wtf/"
+  buttonUrl: "https://prpl.wtf/img/88x31/prpl_wtf.gif"
+
+- id: vvqb
+  name: "vvqb"
+  url: "https://vvqb.dev"
+  buttonUrl: "https://vvqb.dev/88x31/vvqb_dev.gif"
+
+- id: codingcorner
+  name: "kyle"
+  url: "https://codingcorner.dev"
+  buttonUrl: "https://codingcorner.dev/buttons/codingcorner.png"
+
+- id: sarvesh
+  name: "sarvesh"
+  url: "https://sarvesh.hackclub.app/"
+  buttonUrl: "/buttons/tarfish.png"
+
+- id: dipa
+  name: "dipa"
+  url: "https://dipa-cotton.github.io/personalsite/"
+  buttonUrl: "/buttons/dipa.png"
+
+- id: "pk_industries"
+  name: "pk_industries"
+  url: "https://pkindustry.org/"
+  buttonUrl: "/buttons/pkindustries.png"
