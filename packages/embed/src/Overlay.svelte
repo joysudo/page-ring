@@ -11,7 +11,7 @@
     ListIcon,
   } from "@lucide/svelte";
 
-  import flower1 from "./assets/flower1.svg";
+  import flowers from "./assets/flowers-anim.png";
   import { fade, fly } from "svelte/transition";
   import { cubicOut } from "svelte/easing";
   import { RING_BASE } from "./lib/consts";
@@ -107,7 +107,7 @@
               !open && "-translate-x-1 -translate-y-1",
             ]}
           >
-            <img src={flower1} alt="" class="h-5" />
+            <img src={flowers} alt="" class="size-5" />
             <span class="sr-only">Hide</span>
           </button>
           <div
