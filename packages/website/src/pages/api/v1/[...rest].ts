@@ -98,6 +98,8 @@ app.post(
       setCookie(c, "webring-enabled", "true", {
         maxAge: 60 * 60 * 24 * 365, // 1 year
         path: "/",
+        sameSite: "None",
+        secure: true,
       });
     } else {
       deleteCookie(c, "webring-enabled", {
