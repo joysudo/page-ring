@@ -95,7 +95,7 @@
               onclick={() => (open = !open)}
               ondblclick={() => {
                 //  open changes from false -> true -> *false*
-                if (!open) {
+                if (!open && !showDirectory) {
                   open = true;
                   showDirectory = true;
                 }
