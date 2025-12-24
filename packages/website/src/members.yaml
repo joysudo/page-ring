@@ -34,3 +34,8 @@
   name: "bunnyguy"
   url: "https://sundial.city"
   buttonUrl: /buttons/bunnyguy.gif
+
+  - id: dipa
+  name: "dipa"
+  url: "https://dipa-cotton.github.io/personalsite/"
+  buttonUrl: /buttons/dipa.png
